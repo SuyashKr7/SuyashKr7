@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SuyashKr7
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ecsuyash@gmail.com
 
 <!---
